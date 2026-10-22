@@ -1,7 +1,7 @@
 # Pooling and Drift in Delayed Bandits
 
-Code and stored outputs for *Pooling and Drift in Delayed Bandits* (ML×OR 2026 workshop,
-non-archival).
+Code and stored outputs for *Pooling and Drift in Delayed Bandits* (arXiv:2609.01761,
+under review).
 
 Published at <https://github.com/melikabaghi/state-exp3>, which is the URL cited in Appendix E.
 The paper itself is arXiv:2609.01761; neither the PDF nor its LaTeX source is in this repository.
